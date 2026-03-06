@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" alt="Project Banner" width="100%">
 </p>
+#CARTOON FACE SYNTHESIS AND SUPER RESOLUTION
 # 🎨 Cartoon Face Synthesis and Super Resolution
 
 ## 📌 Project Overview
