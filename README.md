@@ -1,4 +1,6 @@
-# Cartoon-Face-Synthesis-and-Super-Resolution
+<p align="center">
+  <img src="banner.png" alt="Project Banner" width="100%">
+</p>
 # 🎨 Cartoon Face Synthesis and Super Resolution
 
 ## 📌 Project Overview
