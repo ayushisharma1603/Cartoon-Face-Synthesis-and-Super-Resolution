@@ -1,4 +1,3 @@
-#CARTOON FACE SYNTHESIS AND SUPER RESOLUTION
 # 🎨 Cartoon Face Synthesis and Super Resolution
 
 ## 📌 Project Overview
